@@ -4,7 +4,7 @@
 
 
 ### À propos
-Je suis un étudiant en informatique passionné par la cybersécurité, le pentesting, l'architecture de bases de données et l'ingénierie inverse. J'aime construire des projets du niveau bas jusqu'aux systèmes distribués.
+Je suis un étudiant en informatique passionné par la cybersécurité, le pentesting, l'architecture de bases de données et l'ingénierie inverse. J'aime construire des projets du niveau bas jusqu'a[...]
 
 ### 🛠️ Mes Outils & Technologies
 <div style="margin-top:8px; line-height:1.25;">
@@ -24,33 +24,20 @@ Je suis un étudiant en informatique passionné par la cybersécurité, le pente
 
 ### 📊 Widgets GitHub (agrandis)
 
-<div>
-  <p>
-    <!-- GitHub stats agrandi -->
-    <img align="left" width="520" src="https://github-readme-stats.vercel.app/api?username=AETHERION-220&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    <!-- Top languages (logos badges) -->
-    <span style="display:inline-block; vertical-align:top; margin-left:12px;">
-      <p style="margin:0 0 8px 0;">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      </p>
-      <p style="margin:0 0 8px 0;">
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-      </p>
-      <p style="margin:0 0 8px 0;">
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-      </p>
-      <p style="margin:0 0 8px 0;">
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-      </p>
-      <p style="margin:0 0 8px 0;">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      </p>
-    </span>
-  </p>
+<!-- Container flex: affiche les widgets sur la même ligne quand l'espace le permet -->
+<div style="display:flex;flex-wrap:wrap;gap:12px;align-items:flex-start;margin-top:8px;">
+  <div style="flex:0 0 auto;">
+    <!-- GitHub stats -->
+    <img width="520" src="https://github-readme-stats.vercel.app/api?username=AETHERION-220&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </div>
+  <div style="flex:0 0 auto;">
+    <!-- Top languages -->
+    <img width="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AETHERION-220&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </div>
 </div>
 
-<!-- Streak agrandi -->
-<p>
+<!-- Le widget de commit/streak reste sur sa propre ligne -->
+<p style="margin-top:10px;">
   <img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=AETHERION-220&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
@@ -67,3 +54,10 @@ Je suis un étudiant en informatique passionné par la cybersécurité, le pente
 </p>
 
 ---
+
+### Projets récents
+- Consulte mes dépôts pour voir mes projets récents : outils, writeups CTF, scripts d'analyse réseau.
+
+---
+
+<!-- Technical note: language logos are displayed as badges above; GitHub README does not support custom CSS animations — animated GIFs or SVGs can be used if desired. -->
