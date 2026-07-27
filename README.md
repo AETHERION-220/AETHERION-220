@@ -18,12 +18,12 @@ Je suis un étudiant en informatique et un passionné de cybersécurité. J'aime
 
 <!-- Widget GitHub Stats de base -->
 <p align="center">
-  <img src="Seishiro Nagi, Blue Lock Character, Skilled Striker, Anime and Manga, Transparent PNG Image.jpg" alt="GitHub Stats" />
+  <img src="" alt="GitHub Stats" />
 </p>
 
 <!-- Widget GitHub Streak (La Flamme) -->
 <p align="center">
-  <img src="Seishiro_Nagi__Blue_Lock_Character__Skilled_Striker__Anime_and_Manga__Transparent_PNG_Image_1_-removebg-preview.png" alt="GitHub Streak" />
+  <img src="Adobe Express - file.png" alt="GitHub Streak" />
 </p>
 
 <!-- Widget des langages les plus utilisés -->
