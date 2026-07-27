@@ -8,7 +8,7 @@
 Je suis un étudiant en informatique passionné par la cybersécurité, le pentesting, l'architecture de bases de données et l'ingénierie inverse. J'aime construire des projets du niveau bas jusqu'aux systèmes distribués.
 
 ### 🛠️ Mes Outils & Technologies
-<div style="margin-top:18px">
+<div style="margin-top:8px; line-height:1.25;">
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" />
@@ -30,33 +30,37 @@ J'explore actuellement:
 
 ### 📊 Mes Widgets GitHub
 
-<!-- Statistiques principales et top langs -->
+<!-- Statistiques principales et top langs (tailles réduites pour ne pas être envahissantes) -->
 <div style="margin-top:12px">
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AETHERION-220&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AETHERION-220&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img align="left" width="380" src="https://github-readme-stats.vercel.app/api?username=AETHERION-220&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AETHERION-220&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 </div>
 
-<!-- GitHub Streak -->
+<!-- GitHub Streak (réduit) -->
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AETHERION-220&theme=tokyonight" alt="GitHub Streak" />
+  <img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=AETHERION-220&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<!-- 3D contribution calendar (généré par l'action) -->
+<!-- 3D contribution calendar (taille réduite pour diminuer l'empreinte visuelle) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
   <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-view.svg">
-  <img alt="GitHub 3D Contribution Calendar" src="profile-3d-contrib/profile-night-view.svg" width="100%">
+  <img alt="GitHub 3D Contribution Calendar" src="profile-3d-contrib/profile-night-view.svg" width="360" style="border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.08);" />
 </picture>
+
+<p style="font-size:12px;color:#6b6b6b;margin-top:6px;">Astuce : si tu veux un calendrier encore plus compact, je peux réduire ce visuel à 240–300px, ou le convertir en SVG plus léger.</p>
 
     </td>
     <td valign="top" width="38%">
 
-<!-- Image de profil à droite (agrandie et plus douce pour mieux se fondre) -->
+<!-- Image de profil à droite (taille réduite pour être moins encombrante) -->
 <a href="#">
-  <img align="right" width="380" src="Seishiro_Nagi__Blue_Lock_Character__Skilled_Striker__Anime_and_Manga__Transparent_PNG_Image_1_-removebg-preview.png" alt="Profile Image" style="border-radius:12px;opacity:0.98;" />
+  <img align="right" width="360" src="Seishiro_Nagi__Blue_Lock_Character__Skilled_Striker__Anime_and_Manga__Transparent_PNG_Image_1_-removebg-preview.png" alt="Profile Image" style="border-radius:12px;opacity:0.96;box-shadow:0 8px 20px rgba(0,0,0,0.12);" />
 </a>
+
+<p style="clear:both;font-size:12px;color:#6b6b6b;margin-top:8px;">Si tu veux que je remplace cette image par un modèle plus sobre (identicon ou avatar SVG léger), dis-moi : a) DiceBear avataaars, b) DiceBear identicon, c) une photo Unsplash — ou fournis ton URL.</p>
 
     </td>
   </tr>
@@ -69,8 +73,7 @@ J'explore actuellement:
 
 ---
 
-Si tu veux que je reproduise exactement la mise en page de https://github.com/y2-znt (superposition, logos de langage personnalisés, widgets supplémentaires : Wakatime, GitHub Trophies, etc.), je peux l'implémenter.
-
-Pour l'image de droite : je peux remplacer l'actuelle par une version plus légère/moins encombrante si tu me donnes une URL d'image ou si tu veux que je récupère une image gratuite (avatar SVG/PNG). Pour l'instant j'ai agrandi l'avatar à 380px et ajouté un léger arrondi pour mieux l'intégrer.
-
-J'ai également ajouté le workflow GitHub Actions pour générer le calendrier 3D (fichier .github/workflows/profile-3d-contrib.yml).
+Prochaines actions proposées (dis-moi lesquelles je dois committer) :
+- Ajouter le workflow .github/workflows/profile-3d-contrib.yml pour générer automatiquement le calendrier 3D (action sûre).
+- Remplacer l'image de profil par une version plus légère (je peux générer et committer une image DiceBear si tu veux).
+- Réduire encore la taille du calendrier (ex. à 280px) si tu préfères.
