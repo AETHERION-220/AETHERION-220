@@ -19,20 +19,20 @@ Je suis un étudiant en informatique passionné par la cybersécurité, le pente
 
 <p align="right">
   <img src="Seishiro_Nagi__Blue_Lock_Character__Skilled_Striker__Anime_and_Manga__Transparent_PNG_Image_1_-removebg-preview.png"
-       alt="Profile" width="340" style="border-radius:12px;box-shadow:0 8px 20px rgba(0,0,0,0.12);" />
+       alt="Profile" width="540" style="border-radius:20px;box-shadow:0 16px 40px rgba(0,0,0,0.12);" />
 </p>
 
 ### 📊 Widgets GitHub (agrandis)
 
 <!-- Container flex: affiche les widgets sur la même ligne quand l'espace le permet -->
-<div style="display:flex;flex-wrap:wrap;gap:12px;align-items:flex-start;margin-top:8px;">
+<div style="display:flex;flex-wrap:wrap;gap:5px;align-items:flex-start;margin-top:12px;">
   <div style="flex:0 0 auto;">
     <!-- GitHub stats -->
-    <img width="620" src="https://github-readme-stats.vercel.app/api?username=AETHERION-220&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <img width="720" src="https://github-readme-stats.vercel.app/api?username=AETHERION-220&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   </div>
   <div style="flex:0 0 auto;">
     <!-- Top languages -->
-    <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AETHERION-220&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AETHERION-220&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </div>
 </div>
 
