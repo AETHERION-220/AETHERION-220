@@ -1,7 +1,9 @@
 > Always coding — sometimes exploring data, sometimes building software.<br />
 > *Each project helps me think deeper, write better programs and turn raw data into something useful.*
 
-> *“Now is the time to take risks. Do something bold. You won’t regret it.”* — **Elon Musk**
+<div align="center">
+  <img src="assets/quote-banner.svg" width="100%" alt="Now is the time to take risks. Do something bold. You won't regret it. — Elon Musk" />
+</div>
 
 ## 📊 Developer dashboard
 
