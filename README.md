@@ -28,28 +28,28 @@ Je suis un étudiant en informatique passionné par la cybersécurité, le pente
 <div style="display:flex;flex-wrap:wrap;gap:12px;align-items:flex-start;margin-top:8px;">
   <div style="flex:0 0 auto;">
     <!-- GitHub stats -->
-    <img width="520" src="https://github-readme-stats.vercel.app/api?username=AETHERION-220&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <img width="620" src="https://github-readme-stats.vercel.app/api?username=AETHERION-220&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   </div>
   <div style="flex:0 0 auto;">
     <!-- Top languages -->
-    <img width="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AETHERION-220&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AETHERION-220&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </div>
 </div>
 
 <!-- Le widget de commit/streak reste sur sa propre ligne -->
 <p style="margin-top:10px;">
-  <img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=AETHERION-220&theme=tokyonight" alt="GitHub Streak" />
+  <img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=AETHERION-220&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <!-- Contribution calendar agrandi -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
   <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-view.svg">
-  <img alt="GitHub 3D Contribution Calendar" src="profile-3d-contrib/profile-night-view.svg" width="520" style="border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,0.06);" />
+  <img alt="GitHub 3D Contribution Calendar" src="profile-3d-contrib/profile-night-view.svg" width="520" style="border-radius:10px;box-shadow:0 7px 18px rgba(0,0,0,0.06);" />
 </picture>
 
 <!-- Image secondaire (Adobe Express) : positionnée en dessous des widgets -->
-<p align="center" style="margin-top:12px;">
+<p align="center" style="margin-top:13px;">
   <img src="Adobe Express - file.png" alt="Adobe Express" width="180" style="border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,0.08);" />
 </p>
 
