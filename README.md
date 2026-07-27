@@ -2,12 +2,13 @@
 
 <table>
   <tr>
-    <td valign="top" width="65%">
+    <td valign="top" width="62%">
 
 ### À propos
 Je suis un étudiant en informatique passionné par la cybersécurité, le pentesting, l'architecture de bases de données et l'ingénierie inverse. J'aime construire des projets du niveau bas jusqu'aux systèmes distribués.
 
 ### 🛠️ Mes Outils & Technologies
+<div style="margin-top:18px">
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" />
@@ -18,6 +19,7 @@ Je suis un étudiant en informatique passionné par la cybersécurité, le pente
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-003B57?style=flat&logo=mysql&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" />
 </p>
+</div>
 
 J'explore actuellement:
 - Cybersécurité & Pentesting
@@ -29,17 +31,19 @@ J'explore actuellement:
 ### 📊 Mes Widgets GitHub
 
 <!-- Statistiques principales et top langs -->
+<div style="margin-top:12px">
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AETHERION-220&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AETHERION-220&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+</div>
 
 <!-- GitHub Streak -->
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AETHERION-220&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<!-- 3D contribution calendar (si l'action est ajoutée) -->
+<!-- 3D contribution calendar (généré par l'action) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
   <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-view.svg">
@@ -47,11 +51,11 @@ J'explore actuellement:
 </picture>
 
     </td>
-    <td valign="top" width="35%">
+    <td valign="top" width="38%">
 
-<!-- Image de profil à droite -->
+<!-- Image de profil à droite (agrandie et plus douce pour mieux se fondre) -->
 <a href="#">
-  <img align="right" width="320" src="Seishiro_Nagi__Blue_Lock_Character__Skilled_Striker__Anime_and_Manga__Transparent_PNG_Image_1_-removebg-preview.png" alt="Profile Image" />
+  <img align="right" width="380" src="Seishiro_Nagi__Blue_Lock_Character__Skilled_Striker__Anime_and_Manga__Transparent_PNG_Image_1_-removebg-preview.png" alt="Profile Image" style="border-radius:12px;opacity:0.98;" />
 </a>
 
     </td>
@@ -65,12 +69,8 @@ J'explore actuellement:
 
 ---
 
-Si tu veux que je fasse la mise en page exactement comme https://github.com/y2-znt (superposition, logos de langage personnalisés, widgets supplémentaires : Wakatime, GitHub Trophies, etc.), je peux :
+Si tu veux que je reproduise exactement la mise en page de https://github.com/y2-znt (superposition, logos de langage personnalisés, widgets supplémentaires : Wakatime, GitHub Trophies, etc.), je peux l'implémenter.
 
-- Ajouter/adapter les badges de langages pour qu'ils affichent leurs logos (déjà présents en haut). 
-- Ajouter le workflow GitHub Action pour générer le calendrier 3D (fichier .github/workflows/profile-3d-contrib.yml).
-- Remplacer l'image de profil par une autre (fournis l'URL ou dis quel fichier utiliser).
+Pour l'image de droite : je peux remplacer l'actuelle par une version plus légère/moins encombrante si tu me donnes une URL d'image ou si tu veux que je récupère une image gratuite (avatar SVG/PNG). Pour l'instant j'ai agrandi l'avatar à 380px et ajouté un léger arrondi pour mieux l'intégrer.
 
-Dis-moi si je dois :
-1) Committer aussi le workflow pour le calendrier 3D maintenant, ou
-2) Faire d'autres ajustements visuels (couleurs, taille d'avatar, alignement exact).
+J'ai également ajouté le workflow GitHub Actions pour générer le calendrier 3D (fichier .github/workflows/profile-3d-contrib.yml).
