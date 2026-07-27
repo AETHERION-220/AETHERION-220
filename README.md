@@ -23,7 +23,7 @@ Je suis un étudiant en informatique et un passionné de cybersécurité. J'aime
 
 <!-- Widget GitHub Streak (La Flamme) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TON_USERNAME_GITHUB&theme=tokyonight" alt="GitHub Streak" />
+  <img src="Seishiro_Nagi__Blue_Lock_Character__Skilled_Striker__Anime_and_Manga__Transparent_PNG_Image_1_-removebg-preview.png" alt="GitHub Streak" />
 </p>
 
 <!-- Widget des langages les plus utilisés -->
