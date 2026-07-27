@@ -55,12 +55,12 @@ J'explore actuellement:
     </td>
     <td valign="top" width="38%">
 
-<!-- Image de profil à droite (remplacée par la même image optimisée si disponible) -->
+<!-- Image de profil à droite (optimisée si le fichier a été remplacé) -->
 <a href="#">
   <img align="right" width="320" src="Seishiro_Nagi__Blue_Lock_Character__Skilled_Striker__Anime_and_Manga__Transparent_PNG_Image_1_-removebg-preview.png" alt="Profile Image" style="border-radius:12px;opacity:0.96;box-shadow:0 8px 20px rgba(0,0,0,0.12);" />
 </a>
 
-<p style="clear:both;font-size:12px;color:#6b6b6b;margin-top:8px;">J'ai remplacé l'avatar par une version plus compacte dans le README (320px). Si tu veux que je compresse le PNG et le remplace dans le dépôt, je peux le faire — envoie-moi l'image optimisée ou autorise-moi à remplacer par un avatar SVG léger (DiceBear).</p>
+<p style="clear:both;font-size:12px;color:#6b6b6b;margin-top:8px;">Si tu veux que je remplace cette image par une version plus légère (DiceBear identicon ou identique compressée), dis-le et je la remplace dans le dépôt.</p>
 
     </td>
   </tr>
