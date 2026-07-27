@@ -18,7 +18,7 @@ Je suis un étudiant en informatique et un passionné de cybersécurité. J'aime
 
 <!-- Widget GitHub Stats de base -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME_GITHUB&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="Seishiro Nagi, Blue Lock Character, Skilled Striker, Anime and Manga, Transparent PNG Image.jpg" alt="GitHub Stats" />
 </p>
 
 <!-- Widget GitHub Streak (La Flamme) -->
