@@ -1,63 +1,65 @@
-# Salut, je suis therion 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=560&height=46&lines=Salut%2C+je+suis+Therion+%F0%9F%91%8B;Cybers%C3%A9curit%C3%A9+%C2%B7+Pentesting+%C2%B7+Reverse" alt="Typing intro" />
+</div>
 
-<!-- Avatar principal : toujours au-dessus des GitHub stats -->
+<br />
 
+<table>
+  <tr>
+    <td width="62%" valign="top">
 
 ### À propos
-Je suis un étudiant en informatique passionné par la cybersécurité, le pentesting, l'architecture de bases de données et l'ingénierie inverse. J'aime construire des projets du niveau bas jusqu'a[...]
+Étudiant en informatique, passionné par la **cybersécurité**, le **pentesting**, l’architecture de bases de données et l’**ingénierie inverse**. J’aime construire des projets du bas niveau jusqu’au haut niveau — outils, scripts et expérimentations concrètes.
 
-### 🛠️ Mes Outils & Technologies
-<div style="margin-top:8px; line-height:1.25;">
+<br />
+
+> *“Now is the time to take risks — when you don’t yet have family obligations. Do something bold. You won’t regret it.”*
+> — **Elon Musk**
+
+<br />
+
+### Outils & technologies
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-</div>
-
-<p align="right">
-  <img src="Seishiro_Nagi__Blue_Lock_Character__Skilled_Striker__Anime_and_Manga__Transparent_PNG_Image_1_-removebg-preview.png"
-       alt="Profile" width="540" style="border-radius:20px;box-shadow:0 16px 40px rgba(0,0,0,0.12);" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js&theme=dark" alt="Skills" />
+  </a>
 </p>
 
-### 📊 Widgets GitHub (agrandis)
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="Seishiro_Nagi__Blue_Lock_Character__Skilled_Striker__Anime_and_Manga__Transparent_PNG_Image_1_-removebg-preview.png" alt="Profile" width="240" />
+      <br />
+      <img src="Adobe%20Express%20-%20file.png" alt="Badge" width="110" />
+    </td>
+  </tr>
+</table>
 
-<!-- Container flex: affiche les widgets sur la même ligne quand l'espace le permet -->
-<div style="display:flex;flex-wrap:wrap;gap:5px;align-items:flex-start;margin-top:12px;">
-  <div style="flex:0 0 auto;">
-    <!-- GitHub stats -->
-    <img width="720" src="https://github-readme-stats.vercel.app/api?username=AETHERION-220&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </div>
-  <div style="flex:0 0 auto;">
-    <!-- Top languages -->
-    <img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AETHERION-220&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </div>
-</div>
+---
 
-<!-- Le widget de commit/streak reste sur sa propre ligne -->
-<p style="margin-top:10px;">
-  <img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=AETHERION-220&theme=tokyonight" alt="GitHub Streak" />
+### Stats GitHub
+
+<p align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=AETHERION-220&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AETHERION-220&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<!-- Contribution calendar agrandi -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-view.svg">
-  <img alt="GitHub 3D Contribution Calendar" src="profile-3d-contrib/profile-night-view.svg" width="520" style="border-radius:10px;box-shadow:0 7px 18px rgba(0,0,0,0.06);" />
-</picture>
+<p align="center">
+  <img height="145" src="https://github-readme-streak-stats.herokuapp.com/?user=AETHERION-220&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<!-- Image secondaire (Adobe Express) : positionnée en dessous des widgets -->
-<p align="center" style="margin-top:13px;">
-  <img src="Adobe Express - file.png" alt="Adobe Express" width="180" style="border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,0.08);" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-view.svg" />
+    <img alt="GitHub 3D Contribution Calendar" src="profile-3d-contrib/profile-night-view.svg" width="480" />
+  </picture>
 </p>
 
 ---
 
 ### Projets récents
-- Consulte mes dépôts pour voir mes projets récents : outils, writeups CTF, scripts d'analyse réseau.
+Consulte mes dépôts pour découvrir mes projets : outils, writeups CTF et scripts d’analyse réseau.
 
----
-
-<!-- Technical note: language logos are displayed as badges above; GitHub README does not support custom CSS animations — animated GIFs or SVGs can be used if desired. -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AETHERION-220&style=flat-square&color=7AA2F7" alt="Profile views" />
+</p>
