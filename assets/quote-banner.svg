@@ -17,23 +17,23 @@
     </filter>
   </defs>
 
-  <rect width="900" height="280" rx="24" fill="url(#background)"/>
+  <rect width="880" height="260" rx="24" fill="url(#background)"/>
   <rect x="2" y="2" width="896" height="276" rx="22" fill="none" stroke="url(#accent)" stroke-width="3"/>
   <circle cx="90" cy="40" r="72" fill="#7aa2f7" opacity=".12" filter="url(#glow)"/>
   <circle cx="820" cy="242" r="88" fill="#bb9af7" opacity=".13" filter="url(#glow)"/>
 
-  <text x="52" y="82" fill="#7aa2f7" font-family="Georgia, serif" font-size="74" font-weight="700">&#8220;</text>
-  <text x="450" y="86" fill="#c0caf5" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="700" text-anchor="middle">
+  <text x="52" y="82" fill="#7aa2f7" font-family="Georgia, serif" font-size="70" font-weight="680">&#8220;</text>
+  <text x="450" y="86" fill="#c0caf5" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="620" text-anchor="middle">
     NOW IS THE TIME TO TAKE RISKS.
   </text>
-  <text x="450" y="128" fill="#a9b1d6" font-family="Segoe UI, Arial, sans-serif" font-size="21" text-anchor="middle">
+  <text x="450" y="128" fill="#a9b1d6" font-family="Segoe UI, Arial, sans-serif" font-size="19" text-anchor="middle">
     When you don&#8217;t yet have family obligations,
   </text>
-  <text x="450" y="166" fill="#a9b1d6" font-family="Segoe UI, Arial, sans-serif" font-size="21" text-anchor="middle">
+  <text x="450" y="166" fill="#a9b1d6" font-family="Segoe UI, Arial, sans-serif" font-size="19" text-anchor="middle">
     do something bold. You won&#8217;t regret it.
   </text>
   <rect x="330" y="194" width="240" height="3" rx="2" fill="url(#accent)"/>
-  <text x="450" y="235" fill="#bb9af7" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600" text-anchor="middle">
+  <text x="450" y="235" fill="#bb9af7" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="580" text-anchor="middle">
     &#8212; ELON MUSK
   </text>
 </svg>
