@@ -2,7 +2,7 @@
 > *Each project helps me think deeper, write better programs and turn raw data into something useful.*
 
 <div align="center">
-  <img src="assets/quote-banner.svg" width="100%" alt="Now is the time to take risks. Do something bold. You won't regret it. — Elon Musk" />
+  <img src="assets/quote-banner.svg" width="100%" alt="If you are not embarrassed by the first version of your product, you’ve launched too late.        — Reid Hoffman" />
 </div>
 
 ## 📊 Developer dashboard
